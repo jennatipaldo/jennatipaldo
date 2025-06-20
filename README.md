@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🌎 I’m currently working on my dissertation ⛈️
+- 🌱 I’m currently learning SQL, Python, and expanding my knowledge of R for GIS & spatial statistics
+- 📫 How to reach me: [@jennatip.bsky.social](https://bsky.app/profile/jennatip.bsky.social)
+
 <!--
 **jennatipaldo/jennatipaldo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

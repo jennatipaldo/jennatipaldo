@@ -1,7 +1,8 @@
 ## Hi there 👋
 
-- 🌎 I’m currently working on my dissertation ⛈️
-- 🌱 I’m currently learning SQL, Python, and expanding my knowledge of R for GIS & spatial statistics
+- 🌎 I’m currently working on projects relating to environmental exposures, aging, and health outcomes such as disability and cognition (and publishing from my dissertation ⛈️ )
+- 🌱 I’m currently improving my skills in causal inference, Python, and R
+- 💬 Ask me about using R for GIS & spatial statistics
 - 📫 How to reach me: [jenna.tipaldo09@sphmail.cuny.edu](mailto:jenna.tipaldo09@sphmail.cuny.edu) or [@jennatip.bsky.social](https://bsky.app/profile/jennatip.bsky.social)
 
 <!--
